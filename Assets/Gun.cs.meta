@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ac4e968b273009468e9830ecbc4a9b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 5815119779550246041, guid: 6525ddb8e7a6e73468fdbd8aebc8a669, type: 3}
+  - stvol: {fileID: 2085833609676667589, guid: 6525ddb8e7a6e73468fdbd8aebc8a669, type: 3}
+  - audioSource: {instanceID: 0}
+  - audioClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
